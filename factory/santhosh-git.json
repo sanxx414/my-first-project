@@ -1,0 +1,9 @@
+{
+	"name": "santhosh-git",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73c32fa7-eb8a-4e42-935b-f0c6a6ab3cfe",
+		"tenantId": "c0a38819-d9c0-4967-9403-cd09cccf54e4"
+	}
+}
